@@ -1,3 +1,13 @@
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenU5MXpiazJ6c3RreW44aDBtcDhkbXljOHBoZ2pyOGtobXBlbjZkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.webp" width="160" height="121" alt="Coder GIF"/>
+  <div id="badges">
+     <img src="https://komarev.com/ghpvc/?username=BryanGith&style=for-the-badge&color=blue" alt="Profile views"/>
+    <a href="https://www.linkedin.com/in/bryanrogiers/" target="_blank"> 
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</div>
+
 # 🏄‍♂️ Bryan Rogiers
 
 **`Developer`**
