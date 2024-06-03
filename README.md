@@ -48,14 +48,14 @@ I'm a 21-year-old software developer with a flexible attitude towards tasks and 
 #### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white)
 ![Prisma](https://shields.io/badge/Prisma-2D3748?logo=Prisma&logoColor=white&style=for-the-badge)
 ![tRPC](https://shields.io/badge/tRPC-3178C6?logo=typescript&logoColor=FFF&style=for-the-badge)
 ![NextAuth](https://shields.io/badge/NextAuth-000000?logo=nextdotjs&logoColor=FFFFFF&style=for-the-badge)
 
 #### DevOps and Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=express&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=Github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-4a94e6?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://shields.io/badge/Vercel-000000?logo=vercel&logoColor=FFFFFF&style=for-the-badge)
 
