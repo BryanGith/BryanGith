@@ -25,8 +25,6 @@ I'm a 21-year-old software developer with a flexible attitude towards tasks and 
 - 🌱 I’m currently learning more about `.NET`
 
 - 💬 Ask me about anything, Except Maths :sweat_smile:
-
-- ⚡ Fun fact: I waste most of my time playing games and chilling with family.
 ---
 
 ### 🛠️ Technologies and Tools I use:
