@@ -12,7 +12,7 @@
 
 **`Developer`**
 
-I'm a 21-year-old software developer with a flexible attitude towards tasks and working hours. I am passionate about designing and developing software, and I have a creative approach to problem-solving. In high-pressure situations, I remain calm and strive for efficiency in my work. As a team player, I enjoy collaborating with others and excel at tackling technical challenges. I believe that a positive work environment is essential for achieving success, and I contribute to creating a constructive and pleasant atmosphere. I interned at Relivo, a company focused on delivering a personalized experience for photos at events using AI, where I learned Next.js, TypeScript, tRPC, Prisma, and NextAuth.
+I am... To be continued...
 
 ## 👨🏻‍💻 About Me:
 
