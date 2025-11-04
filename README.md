@@ -22,7 +22,7 @@ I am... To be continued...
 
 - 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning more about `.NET`
+- 🌱 I’m currently learning more about `AI automation`
 
 - 💬 Ask me about anything, Except Maths :sweat_smile:
 ---
